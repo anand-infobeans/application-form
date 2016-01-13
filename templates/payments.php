@@ -1,0 +1,1 @@
+<?php include(WP_PLUGIN_DIR . '/ib-chase-payment/' . 'payments.php') ?>
