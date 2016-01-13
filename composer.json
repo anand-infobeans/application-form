@@ -1,5 +1,5 @@
 {
-  "name" : "anand-package",
+  "name" : "anand-infobeans/application-form",
   "require": {
     "php": ">=5.4",
     "anand-infobeans/application-form": "4.1"
