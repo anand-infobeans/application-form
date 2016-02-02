@@ -6,5 +6,10 @@
   },
   "extra": {
     "wordpress-install-dir": "wp-content/plugins/"
-  }
+  },
+  "autoload": {
+        "psr-0": {
+            "application-form": "src"
+        }
+    }
 }
