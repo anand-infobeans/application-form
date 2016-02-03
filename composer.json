@@ -2,6 +2,7 @@
   "name": "anand-infobeans/application-form",
   "license": "MIT",
   "target-dir" : "anand",
+  "type" : "wordpress-plugin",
   "authors": [
         {
             "name": "Anand Pandey",
