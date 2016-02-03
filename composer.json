@@ -1,6 +1,7 @@
 {
   "name": "anand-infobeans/application-form",
   "license": "MIT",
+  "target-dir" : "Stfalcon/Bundle/TinymceBundle",
   "authors": [
         {
             "name": "Anand Pandey",
